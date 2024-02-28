@@ -10,4 +10,4 @@
 
 - `tsc -w` 👉 With a **tsconfig** file setup properly this command will watch and compile the **.ts** file automatically.
 
-- `tsc --noEmitOnError -w` 👉 With this **noEmit...** flag the **.ts** file wont be compile with errors.
+- `tsc --noEmitOnError -w` 👉 With this **noEmit...** flag the **.ts** file wont be compiled with errors.
