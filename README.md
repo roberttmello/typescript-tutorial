@@ -1,6 +1,8 @@
-# TypeScript Complete Tutorial
+# TypeScript Complete Tutorial 🚩
 
-## Useful Commands
+## Useful Commands 🔥
+
+- `npm i typescript -g` 👉 Install the **Typescript Compiler** globally.
 
 - `tsc file.ts` 👉 Compile **.ts** file and generate a **.js** file.
 
